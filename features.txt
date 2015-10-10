@@ -1,0 +1,9 @@
+Current Features
+****************
+	• Parses BBCode in custom profile fields
+	• Parses URLs in custom profile fields
+	• Parses Smileys in custom profile fields
+	
+Planned Features
+****************
+	• None
