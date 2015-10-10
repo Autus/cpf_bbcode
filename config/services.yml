@@ -1,0 +1,9 @@
+services:
+    sequor.cpfbbcode.listener:
+        class: sequor\cpfbbcode\event\listener
+        arguments:
+            - @path_helper
+            - @template
+            - @user
+        tags:
+            - { name: event.listener }
