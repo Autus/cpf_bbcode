@@ -1,5 +1,5 @@
 # cpf_bbcode
-Parse BBCodes in Custom Profile Fields
+This is a PHPBB 3.0 mod. It parses BBCode in custom profile fields.
 
 ## Installation
 
